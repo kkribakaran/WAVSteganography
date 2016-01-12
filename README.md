@@ -1,7 +1,5 @@
 # WAVSteganography
-Python program to hide and extract text in WAV files
-
-The program works by splitting a WAV file in to chunks and writing data to the first frame of each chunk. 
+Python program to hide and extract text in WAV files. The program works by splitting a WAV file in to chunks and writing data to the first frame of each chunk. 
 
 
 Hide text file: 
